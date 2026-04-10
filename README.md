@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Triet 👋</h1>
 
 <p align="center">
-  <em>AI/ML Engineer · Data Engineer · Polyglot Developer</em>
+  <em>AI Engineer · Agentic Systems · Performance Optimization · Robotics</em>
 </p>
 
 <p align="center">
@@ -14,11 +14,11 @@
 
 ### 🧠 About Me
 
-- 🔭 Building intelligent systems — from AI co-pilots for retail investors to multi-agent cognitive architectures
-- �� Experienced in **Big Data** pipelines: Hadoop, Spark, Kafka, Hive, dbt on Kubernetes
-- 🤖 Passionate about **LLMs, agentic AI**, and explainable machine learning
-- 🦀 Enjoys systems programming in **Rust** when performance matters
-- 🌱 Always exploring new frontiers at the intersection of AI and real-world applications
+- 🔭 Building agentic AI systems and cognitive architectures for real-world decision support
+- 🧠 Focused on memory, reasoning, and tool-using agents that scale reliably
+- ⚙️ Performance-minded across pipelines and systems, from Big Data to Rust
+- 🤖 Exploring robotics and embodied AI for grounded, autonomous behavior
+- 🌱 Always pushing the frontier where AI meets real-world constraints
 
 ---
 
@@ -48,47 +48,32 @@
 
 ### 🚀 Featured Projects
 
-#### 🤖 AI / Agents / LLM
+#### ⭐ Key Projects (Agentic AI · Performance · Robotics)
 
 | Repository | Description | Topics |
 |---|---|---|
-| [**itapia**](https://github.com/triet4p/itapia) | Explainable AI co-pilot for retail investors — combines technical analysis, news signals, and evolutionary strategies for transparent investment insights 📈🤖 | `llm` `finance` `machine-learning` `data-science` `fingpt` |
-| [**mcp-fin-test**](https://github.com/triet4p/mcp-fin-test) | AI-powered financial agent built on the Model-Context-Protocol (MCP) architecture — modular, extensible, multi-LLM support | `agentic-ai` `finance` `llms` `mcp` |
-| [**SeEvoDJSSP**](https://github.com/triet4p/SeEvoDJSSP) | LLM-guided evolutionary algorithm for Dynamic Job-Shop Scheduling Problems | `evolutionary-algorithms` `llm` `scheduling` `python` |
-| [**agent-memory-cognitive**](https://github.com/triet4p/agent-memory-cognitive) | Research into cognitive memory architectures for AI agents | `python` |
-| [**aegis-ma**](https://github.com/triet4p/aegis-ma) | Multi-agent system project | `python` |
-| [**arch-lens-ai**](https://github.com/triet4p/arch-lens-ai) | AI-driven architectural analysis tool | `python` |
+| [**cognition**](https://github.com/triet4p/cognition) | Rust-based cognitive computing and high-performance agent experiments | `rust` `cognition` `performance` |
+| [**agent-memory-cognitive**](https://github.com/triet4p/agent-memory-cognitive) | Cognitive memory architectures for long-lived AI agents | `agentic-ai` `memory` `research` |
+| [**bridge-research**](https://github.com/triet4p/bridge-research) | Research on bridging planning, reasoning, and action in agents | `agentic-ai` `research` |
+| [**lerobot**](https://github.com/triet4p/lerobot) | Robotics and embodied-agent experiments | `robotics` `embodied-ai` |
+| [**math-ai-connect**](https://github.com/triet4p/math-ai-connect) | Math & AI educational content platform with applied agent focus | `education` `ai` |
+| [**aegis-ma**](https://github.com/triet4p/aegis-ma) | Multi-agent architecture for coordination and safety | `multi-agent` `python` |
+| [**itapia**](https://github.com/triet4p/itapia) | Explainable AI co-pilot for retail investors with transparent signals | `llm` `finance` `explainability` |
 
-#### 📊 Big Data & Data Engineering
+#### 📌 Other Projects
 
-| Repository | Description | Topics |
-|---|---|---|
-| [**app-log-process-k8s**](https://github.com/triet4p/app-log-process-k8s) | End-to-end Big Data system with Hadoop, Spark, Kafka, Hive, and dbt — processes large-scale application logs on Kubernetes | `big-data` `hadoop` `spark` `kafka` `k8s` `applog` |
-
-#### 📓 Data Science / Competitions
-
-| Repository | Description | Topics |
-|---|---|---|
-| [**otto-rec-sys**](https://github.com/triet4p/otto-rec-sys) | Recommendation system — OTTO multi-objective recsys competition | `jupyter-notebook` |
-| [**KaggleCompetition**](https://github.com/triet4p/KaggleCompetition) | Collection of Kaggle competition solutions | `jupyter-notebook` |
-
-#### 🦀 Systems & Tools
-
-| Repository | Description | Topics |
-|---|---|---|
-| [**cognition**](https://github.com/triet4p/cognition) | Rust-based cognitive computing experiments | `rust` |
-| [**ez_cli**](https://github.com/triet4p/ez_cli) | Ergonomic CLI toolkit built in Rust | `rust` |
-| [**excel2md**](https://github.com/triet4p/excel2md) | Convert Excel files to Markdown tables | `python` |
-
-#### 🌐 Web & Applications
-
-| Repository | Description | Topics |
-|---|---|---|
-| [**triet4p.github.io**](https://github.com/triet4p/triet4p.github.io) | Personal portfolio website built with TypeScript | `typescript` |
-| [**math-ai-connect**](https://github.com/triet4p/math-ai-connect) | Math & AI educational content platform | `mdx` |
-| [**NoteApp**](https://github.com/triet4p/NoteApp) | Client-server note-taking application in Java | `java` `oop` `client-server` `maven-pom` |
-| [**SearchAppQt**](https://github.com/triet4p/SearchAppQt) | Desktop search application built with Qt | |
-| [**magma_obby**](https://github.com/triet4p/magma_obby) | Flutter/Dart mobile application | `dart` |
+- [mcp-fin-test](https://github.com/triet4p/mcp-fin-test)
+- [SeEvoDJSSP](https://github.com/triet4p/SeEvoDJSSP)
+- [arch-lens-ai](https://github.com/triet4p/arch-lens-ai)
+- [app-log-process-k8s](https://github.com/triet4p/app-log-process-k8s)
+- [otto-rec-sys](https://github.com/triet4p/otto-rec-sys)
+- [KaggleCompetition](https://github.com/triet4p/KaggleCompetition)
+- [ez_cli](https://github.com/triet4p/ez_cli)
+- [excel2md](https://github.com/triet4p/excel2md)
+- [triet4p.github.io](https://github.com/triet4p/triet4p.github.io)
+- [NoteApp](https://github.com/triet4p/NoteApp)
+- [SearchAppQt](https://github.com/triet4p/SearchAppQt)
+- [magma_obby](https://github.com/triet4p/magma_obby)
 
 ---
 
