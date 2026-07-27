@@ -76,9 +76,6 @@
 - [magma_obby](https://github.com/triet4p/magma_obby)
 
 ---
-
-### 📈 GitHub Stats
-
 ### 📈 GitHub Stats
 
 <p align="center">
