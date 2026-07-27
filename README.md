@@ -48,32 +48,29 @@
 
 ### 🚀 Featured Projects
 
-#### ⭐ Key Projects (Agentic AI · Performance · Robotics)
+#### ⭐ Key Projects (Knowledge · Infrastructure · Robotics · Latent Space · Memory · Due Diligence)
 
 | Repository | Description | Topics |
 |---|---|---|
-| [**cognition**](https://github.com/triet4p/cognition) | Rust-based cognitive computing and high-performance agent experiments | `rust` `cognition` `performance` |
-| [**agent-memory-cognitive**](https://github.com/triet4p/agent-memory-cognitive) | Cognitive memory architectures for long-lived AI agents | `agentic-ai` `memory` `research` |
-| [**bridge-research**](https://github.com/triet4p/bridge-research) | Research on bridging planning, reasoning, and action in agents | `agentic-ai` `research` |
-| [**lerobot**](https://github.com/triet4p/lerobot) | Robotics and embodied-agent experiments | `robotics` `embodied-ai` |
-| [**math-ai-connect**](https://github.com/triet4p/math-ai-connect) | Math & AI educational content platform with applied agent focus | `education` `ai` |
-| [**aegis-ma**](https://github.com/triet4p/aegis-ma) | Multi-agent architecture for coordination and safety | `multi-agent` `python` |
-| [**itapia**](https://github.com/triet4p/itapia) | Explainable AI co-pilot for retail investors with transparent signals | `llm` `finance` `explainability` |
+| [**paper-kg-ontology**](https://github.com/triet4p/paper-kg-ontology) | Knowledge Graph ontology with OWL2 RL, Apache Jena Fuseki, SHACL validation, and SPARQL for research paper KG | `ontology` `knowledge-graph` `semantic-web` |
+| [**ecommerce-agent-databricks**](https://github.com/triet4p/ecommerce-agent-databricks) | Production-style e-commerce support agent on Databricks Apps with React UI, Lakebase persistence, governed UC tools, and MCP facade | `agentic-ai` `databricks` `llm` |
+| [**lerobot**](https://github.com/triet4p/lerobot) | Robotics library with SoTA policies for imitation learning, RL, and Vision-Language-Action (PyTorch) | `robotics` `embodied-ai` `deep-learning` |
+| [**latent-anything**](https://github.com/triet4p/latent-anything) | Python framework treating latent space as a first-class object: load, inspect, manipulate, and pipeline latent representations | `machine-learning` `interpretability` `python` |
+| [**agent-memory-cognitive**](https://github.com/triet4p/agent-memory-cognitive) | Long-term conversational memory with retain/recall/reflect architecture and benchmark evaluation | `agentic-ai` `memory` `research` |
+| [**arch-lens-ai**](https://github.com/triet4p/arch-lens-ai) | Desktop-native R&D OS for Technical Due Diligence — assess repos, papers, and artifacts, fully local & privacy-first | `agentic-ai` `due-diligence` `desktop-app` |
 
 #### 📌 Other Projects
 
+- [cognition](https://github.com/triet4p/cognition) — Rust-based cognitive computing agent runtime
+- [bridge-research](https://github.com/triet4p/bridge-research) — Desktop AI Research Assistant (Tauri + React + FastAPI)
+- [math-ai-connect](https://github.com/triet4p/math-ai-connect) — Math & AI knowledge journal (Astro)
+- [aegis-ma](https://github.com/triet4p/aegis-ma) — A2A Multi-Agent SDK (JSON-RPC/WebSocket)
+- [itapia](https://github.com/triet4p/itapia) — Explainable AI co-pilot for retail investors
+- [triet4p.github.io](https://github.com/triet4p/triet4p.github.io) — Portfolio site (React + TypeScript + Vite)
 - [mcp-fin-test](https://github.com/triet4p/mcp-fin-test)
-- [SeEvoDJSSP](https://github.com/triet4p/SeEvoDJSSP)
-- [arch-lens-ai](https://github.com/triet4p/arch-lens-ai)
-- [app-log-process-k8s](https://github.com/triet4p/app-log-process-k8s)
 - [otto-rec-sys](https://github.com/triet4p/otto-rec-sys)
-- [KaggleCompetition](https://github.com/triet4p/KaggleCompetition)
 - [ez_cli](https://github.com/triet4p/ez_cli)
 - [excel2md](https://github.com/triet4p/excel2md)
-- [triet4p.github.io](https://github.com/triet4p/triet4p.github.io)
-- [NoteApp](https://github.com/triet4p/NoteApp)
-- [SearchAppQt](https://github.com/triet4p/SearchAppQt)
-- [magma_obby](https://github.com/triet4p/magma_obby)
 
 ---
 ### 📈 GitHub Stats
