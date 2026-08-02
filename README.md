@@ -56,7 +56,7 @@
 | [**ecommerce-agent-databricks**](https://github.com/triet4p/ecommerce-agent-databricks) | Production-style e-commerce support agent on Databricks Apps with React UI, Lakebase persistence, governed UC tools, and MCP facade | `agentic-ai` `databricks` `llm` |
 | [**lerobot**](https://github.com/triet4p/lerobot) | Robotics library with SoTA policies for imitation learning, RL, and Vision-Language-Action (PyTorch) | `robotics` `embodied-ai` `deep-learning` |
 | [**latent-anything**](https://github.com/triet4p/latent-anything) | Python framework treating latent space as a first-class object: load, inspect, manipulate, and pipeline latent representations | `machine-learning` `interpretability` `python` |
-| [**agent-memory-cognitive**](https://github.com/triet4p/agent-memory-cognitive) | Long-term conversational memory with retain/recall/reflect architecture and benchmark evaluation | `agentic-ai` `memory` `research` |
+| [**cogmem**](https://github.com/triet4p/cogmem) | Long-term conversational memory with retain/recall/reflect architecture and benchmark evaluation | `agentic-ai` `memory` `research` |
 | [**arch-lens-ai**](https://github.com/triet4p/arch-lens-ai) | Desktop-native R&D OS for Technical Due Diligence — assess repos, papers, and artifacts, fully local & privacy-first | `agentic-ai` `due-diligence` `desktop-app` |
 
 #### 📌 Other Projects
