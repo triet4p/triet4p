@@ -76,10 +76,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=triet4p&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=triet4p&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://streak-stats.demolab.com?user=triet4p&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=triet4p&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triet4p&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
 </p>
