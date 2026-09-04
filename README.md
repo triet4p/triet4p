@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://triet4p.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-triet4p.github.io-blue?style=flat-square&logo=github" alt="Portfolio"/>
+  <a href="https://trietlm0306portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-trietlm0306-blue?style=flat-square&logo=github" alt="Portfolio"/>
   </a>
 </p>
 
