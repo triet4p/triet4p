@@ -71,3 +71,28 @@
 - [otto-rec-sys](https://github.com/triet4p/otto-rec-sys)
 - [ez_cli](https://github.com/triet4p/ez_cli)
 - [excel2md](https://github.com/triet4p/excel2md)
+
+---
+
+### 📈 GitHub Stats & Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=triet4p&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=triet4p&show_icons=true&theme=default&include_all_commits=true" />
+    <img alt="Triet's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=triet4p&show_icons=true&theme=tokyonight&include_all_commits=true" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=triet4p&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=triet4p&theme=default" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=triet4p&theme=tokyonight" height="165" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=triet4p&layout=compact&theme=tokyonight&hide_border=true&hide=html,tex,makefile" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=triet4p&layout=compact&theme=default&hide=html,tex,makefile" />
+    <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=triet4p&layout=compact&theme=tokyonight&hide=html,tex,makefile" height="150" />
+  </picture>
+</p>
