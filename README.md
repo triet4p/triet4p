@@ -50,51 +50,79 @@
 
 ### 🚀 Featured Projects
 
-#### 🧠 Agentic AI, Cognitive Memory & Local Systems
+Only repositories that are actively maintained are featured here. Archived work is listed separately at the bottom.
+
+#### 🧠 Agentic AI, Memory & Local-First Systems
 
 | Repository | Description | Topics |
 |---|---|---|
-| [**my-meta-brain**](https://github.com/triet4p/my-meta-brain) | Local-first, encrypted personal vault & memory service for AI agents via Model Context Protocol (MCP) with strict epistemic integrity | `agentic-ai` `mcp` `security` `memory` |
-| [**cogmem**](https://github.com/triet4p/cogmem) | Cognitively-grounded long-term memory API: 6 typed memory networks, two-pass speaker-aware fact extraction, 4-channel hybrid retrieval | `agent-memory` `knowledge-graph` `cognitive-science` |
-| [**mosaic-slm**](https://github.com/triet4p/mosaic-slm) | Compute-aware multi-agent SLM on a single GPU (RTX 4060): private SQLite memory & shared temporal knowledge graph (Kùzu) via vLLM | `multi-agent` `slm` `temporal-kg` `vllm` |
-| [**arch-lens-ai**](https://github.com/triet4p/arch-lens-ai) | Desktop-native R&D OS for Technical Due Diligence — assess repos, papers, and enterprise artifacts, 100% local & privacy-first (Tauri v2 + React 19) | `tauri-v2` `due-diligence` `desktop-app` |
+| [**my-meta-brain**](https://github.com/triet4p/my-meta-brain) | Owner-controlled encrypted second brain for AI agents (.NET 10 / C# / WPF): owner-scoped MCP access over single-use tokens and named pipes, DPAPI + AES-256-GCM vault at rest, encrypted backup & restore, selection-scoped export, and content-schema migration with encrypted rollback points. **Active development.** | `agent-memory` `mcp` `dotnet` `security` |
+| [**mosaic-slm**](https://github.com/triet4p/mosaic-slm) | Research framework for compute-aware multi-agent decision-making on one 16 GB consumer GPU: shared small language model, per-agent private memory (SQLite), and a shared temporal knowledge graph (Kùzu). **Phases 0–2 complete; Phase 3 memory implemented with 0.0% deterministic paired improvement (target ≥5% not met); serving, training and RL not started.** | `multi-agent` `slm` `temporal-kg` `research` |
 
-#### 🌐 Knowledge Graphs & Semantic Systems
+#### 🌐 Knowledge Graphs & Desktop Intelligence
 
 | Repository | Description | Topics |
 |---|---|---|
-| [**projecta**](https://github.com/triet4p/projecta) | Ontology-driven project intelligence platform: dual-storage (Apache Jena Fuseki SPARQL + PostgreSQL), human-in-the-loop review queue, and provenance tracking | `ontology` `sparql` `fastapi` `react-19` |
-| [**paper-kg-ontology**](https://github.com/triet4p/paper-kg-ontology) | Research paper knowledge graph ontology with 2-layer reasoning (OWL2 RL + custom rule property chains), TDB2 triple store, SHACL validation | `ontology` `semantic-web` `jena-fuseki` |
+| [**projecta**](https://github.com/triet4p/projecta) | Local-first Windows desktop knowledge workspace (Tauri v2, bundled local services): ontology-backed project graph, source-grounded notes, human-in-the-loop review of AI-extracted candidates, and evidence-backed queries without external runtime dependencies. **Projecta 1.0.0 released Oct 2026 (Windows 10/11 x64).** | `ontology` `knowledge-graph` `tauri-v2` `local-first` |
 
-#### 🔬 Latent Space, Robotics & Physical AI
-
-| Repository | Description | Topics |
-|---|---|---|
-| [**latent-anything**](https://github.com/triet4p/latent-anything) | First-class latent space framework (**v1.0.0**): PCA/UMAP/SAE introspection, steering vectors, activation patching, and model trajectory planning | `latent-space` `mechanistic-interpretability` `python` |
-| [**anomaly-representation-learning**](https://github.com/triet4p/anomaly-representation-learning) | Self-supervised representation learning for sensor anomaly detection: joint prediction, EMA targets, contrastive projection heads, and synthetic generation | `time-series` `anomaly-detection` `pytorch` |
-| [**lerobot**](https://github.com/triet4p/lerobot) | Physical robotics manipulation on SO-ARM-101, multi-camera synchronization, imitation learning policies (ACT, Diffusion Policy), and VLA models | `robotics` `embodied-ai` `vla` |
-
-#### ⚡ Enterprise Cloud & Serving Infrastructure
+#### 🔬 Latent Space & Representation Learning
 
 | Repository | Description | Topics |
 |---|---|---|
-| [**ecommerce-agent-databricks**](https://github.com/triet4p/ecommerce-agent-databricks) | Enterprise support agent on Databricks Apps: React UI, Lakebase persistence, MLflow ResponsesAgent, Unity Catalog governed tools, and MCP facade | `databricks` `lakehouse` `mcp` `llm` |
-| [**llm-serving-lab**](https://github.com/triet4p/llm-serving-lab) | Serving vs consumption separation playground: benchmarks across vLLM, Ollama, and FastAPI with OpenAI API compatibility | `llm-serving` `vllm` `ollama` `benchmarks` |
+| [**latent-anything**](https://github.com/triet4p/latent-anything) | Python framework treating latent space as a first-class object: PCA/UMAP/SAE introspection, steering vectors and activation patching, world-model planning lanes, and bounded-memory streaming pipelines. **v1.0.0 published on PyPI (Sep 2026)**; documented evidence is CPU/synthetic-workload scoped. | `latent-space` `interpretability` `pypi` `python` |
+| [**anomaly-representation-learning**](https://github.com/triet4p/anomaly-representation-learning) | Self-supervised representation learning for hard multivariate time-series anomalies: masked prediction, EMA targets, contrastive objectives, and a reproducible benchmark harness. **Experimental; no verified accuracy claim.** | `time-series` `anomaly-detection` `self-supervised` `pytorch` |
 
-#### 📌 Other Projects & Research Tools
+#### 🛠️ Applied Products & Research Tooling
 
-- [**coding-agent-stacks**](https://github.com/triet4p/coding-agent-stacks) — Coding agent workflows, harness patterns, and tech stacks (`.agents`, `.omp`)
-- [**cognition**](https://github.com/triet4p/cognition) — Rust-based cognitive computing agent runtime
-- [**claw-code-explain**](https://github.com/triet4p/claw-code-explain) — 12 Agentic Harness Patterns — Claude Code internals explained
-- [**bridge-research**](https://github.com/triet4p/bridge-research) — Desktop AI Research Assistant (Tauri + React + FastAPI)
-- [**math-ai-connect**](https://github.com/triet4p/math-ai-connect) — Math & AI knowledge journal (Astro + MDX)
-- [**aegis-ma**](https://github.com/triet4p/aegis-ma) — A2A (Agent-to-Agent) Multi-Agent SDK (JSON-RPC/WebSocket)
-- [**itapia**](https://github.com/triet4p/itapia) — Explainable AI co-pilot for retail investors
-- [**triet4p.github.io**](https://github.com/triet4p/triet4p.github.io) — Portfolio site (React + TypeScript + Vite)
-- [**mcp-fin-test**](https://github.com/triet4p/mcp-fin-test) — Financial agent built on Model Context Protocol
-- [**otto-rec-sys**](https://github.com/triet4p/otto-rec-sys) — Recommendation system solution for OTTO Competition
-- [**ez_cli**](https://github.com/triet4p/ez_cli) — High-performance CLI utilities in Rust
-- [**excel2md**](https://github.com/triet4p/excel2md) — Layout-preserving Excel to Markdown converter for Windows
+| Repository | Description | Topics |
+|---|---|---|
+| [**aegis-f**](https://github.com/triet4p/aegis-f) | Offline-first personal Android expense tracker (Kotlin, Room/SQLite, ONNX): exact whole-dong VND ledger, optional bank-notification review inbox where every bank-derived record needs explicit confirmation, and on-device category suggestions applied only with explicit user acceptance. **In development; no public release.** | `android` `kotlin` `on-device-ml` `offline-first` |
+| [**daily-research**](https://github.com/triet4p/daily-research) | AI research publishing platform (Next.js 16, TypeScript, Tailwind v4, MDX): overview, weekly and deep-dive tiers with bidirectional cross-references, plus RSS and Microsoft Teams tooling. | `nextjs` `mdx` `research` `typescript` |
+| [**coding-agent-stacks**](https://github.com/triet4p/coding-agent-stacks) | Reusable rules, skills and subagent definitions for coding-agent workflows, shipped with a PowerShell installer. Configuration payload — not an agent runtime. | `agentic-ai` `developer-tools` `powershell` |
+| [**triet4p.github.io**](https://github.com/triet4p/triet4p.github.io) | Personal portfolio site (React 19, TypeScript, Vite) publishing the projects and write-ups linked from this profile. | `portfolio` `react` `typescript` `vite` |
+
+---
+
+### 📦 Archived Projects
+
+These repositories are archived and no longer maintained. They are kept as a record, not as current work.
+
+<details>
+<summary><b>Discontinued experiments & products (archived)</b></summary>
+
+| Repository | What it was |
+|---|---|
+| [**cogmem**](https://github.com/triet4p/cogmem) | Cognitively grounded long-term memory API with typed memory networks and hybrid retrieval |
+| [**arch-lens-ai**](https://github.com/triet4p/arch-lens-ai) | Desktop R&D operating system for technical due diligence (Tauri v2 + React 19) |
+| [**paper-kg-ontology**](https://github.com/triet4p/paper-kg-ontology) | Research-paper knowledge graph lab: OWL2 RL reasoning, TDB2, SHACL validation |
+| [**ecommerce-agent-databricks**](https://github.com/triet4p/ecommerce-agent-databricks) | Support agent on Databricks Apps with Lakebase, MLflow ResponsesAgent and governed tools |
+| [**llm-serving-lab**](https://github.com/triet4p/llm-serving-lab) | vLLM / Ollama / FastAPI serving benchmarks behind an OpenAI-compatible client |
+| [**claw-code-explain**](https://github.com/triet4p/claw-code-explain) | 12 agentic harness patterns — Claude Code internals explained |
+| [**bridge-research**](https://github.com/triet4p/bridge-research) | Desktop AI research assistant (Tauri + React + FastAPI) |
+| [**math-ai-connect**](https://github.com/triet4p/math-ai-connect) | Mathematics and AI learning journal (Astro + MDX) |
+| [**cognition**](https://github.com/triet4p/cognition) | Rust cognitively grounded agent memory system, extended into an agent architecture |
+| [**aegis-ma**](https://github.com/triet4p/aegis-ma) | A2A (Agent-to-Agent) SDK prototype over JSON-RPC/WebSocket |
+| [**itapia**](https://github.com/triet4p/itapia) | Explainable AI co-pilot for retail investors |
+| [**mcp-fin-test**](https://github.com/triet4p/mcp-fin-test) | Financial agent built on the Model Context Protocol |
+| [**otto-rec-sys**](https://github.com/triet4p/otto-rec-sys) | Recommendation-system solution for the OTTO competition |
+| [**ez_cli**](https://github.com/triet4p/ez_cli) | Rust CLI utilities for learning and performance testing |
+| [**excel2md**](https://github.com/triet4p/excel2md) | Layout-preserving Excel to Markdown converter for Windows |
+| [**magma_obby**](https://github.com/triet4p/magma_obby) | Flutter game deployed to iOS via Codemagic |
+
+</details>
+
+<details>
+<summary><b>Earlier study & competition archives (archived)</b></summary>
+
+| Repository | What it was |
+|---|---|
+| [**app-log-process-k8s**](https://github.com/triet4p/app-log-process-k8s) | Big-data pipeline (Hadoop, Spark, Kafka, Hive, dbt) processing application logs |
+| [**SeEvoDJSSP**](https://github.com/triet4p/SeEvoDJSSP) | Self-evolution algorithm applied to the dynamic job shop scheduling problem |
+| [**KaggleCompetition**](https://github.com/triet4p/KaggleCompetition) | Collection of Kaggle competition solutions |
+| [**SearchAppQt**](https://github.com/triet4p/SearchAppQt) | Qt app visualizing linear and binary search algorithms |
+| [**NoteApp**](https://github.com/triet4p/NoteApp) | Simple desktop app for taking and sharing notes |
+
+</details>
 
 ---
 
